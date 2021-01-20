@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1586076937 source:c:\users\hp\desktop\oop(c++)\project\department management system\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	"cursorPlace.cpp"
+	"Students.cpp"
+
+1585837653 c:\users\hp\desktop\oop(c++)\project\department management system\base.cpp
+
+1585911477 c:\users\hp\desktop\oop(c++)\project\department management system\cursorplace.cpp
+
+1585921714 c:\users\hp\desktop\oop(c++)\project\department management system\functions.cpp
+	<bits/stdc++.h>
+
+1586078006 c:\users\hp\desktop\oop(c++)\project\department management system\students.cpp
+	<bits/stdc++.h>
+
+1586100780 source:c:\users\user\downloads\department management system\department management system\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"cursorPlace.cpp"
+	"Students.cpp"
+
+1586081636 c:\users\user\downloads\department management system\department management system\cursorplace.cpp
+
+1586113660 c:\users\user\downloads\department management system\department management system\students.cpp
+	<bits/stdc++.h>
+
+1586114709 source:c:\users\hp\desktop\oop(c++)\department management system (1)\department management system\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"cursorPlace.cpp"
+	"Students.cpp"
+
+1586114708 c:\users\hp\desktop\oop(c++)\department management system (1)\department management system\cursorplace.cpp
+
+1586177347 c:\users\hp\desktop\oop(c++)\department management system (1)\department management system\students.cpp
+	<bits/stdc++.h>
+
+1586114709 source:d:\users\hp\desktop\oop(c++)\department management system (1) - copy\department management system\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"cursorPlace.cpp"
+	"Students.cpp"
+
+1586114708 d:\users\hp\desktop\oop(c++)\department management system (1) - copy\department management system\cursorplace.cpp
+
+1609158939 d:\users\hp\desktop\oop(c++)\department management system (1) - copy\department management system\students.cpp
+	<bits/stdc++.h>
+
+1611042916 source:c:\users\user\desktop\project-department-management-system\department management system\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"cursorPlace.cpp"
+	"Students.cpp"
+
+1586114708 c:\users\user\desktop\project-department-management-system\department management system\cursorplace.cpp
+
+1611148261 c:\users\user\desktop\project-department-management-system\department management system\students.cpp
+	<bits/stdc++.h>
+

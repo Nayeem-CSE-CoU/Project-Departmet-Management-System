@@ -1,1 +1,2 @@
 # Project-Departmet-Management-System
+This is a project based on OOP in C++. It is the project of OOP in C++ course of 2nd year 1st semester. The name of the project is "Department Management System". In this project we can store all student's , teacher's and other stuff's information . Besides we can update and view their data based on some classification or view all the data at once.
